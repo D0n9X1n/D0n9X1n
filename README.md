@@ -1,8 +1,5 @@
-## Hi there 👋
+# Hi there 👋
 
+I’m a “lazy” guy in my 30s — busy with work and life, always short on time. Forgive me :)
 
-<table style="border-collapse: collapse; border: none;">
-  <tr>
-    <td style="border: none;"><img src="https://github-readme-streak-stats.herokuapp.com?user=D0n9X1n&theme=gruvbox&hide_border=true&border_radius=10&mode=daily&type=svg&border_radius=10" style="height: 200px;" /></td>
-  </tr>
-</table>
+But I haven’t fully lost my passion to build things that make the world a little better. If my code can help even a tiny bit, that’s a win.
